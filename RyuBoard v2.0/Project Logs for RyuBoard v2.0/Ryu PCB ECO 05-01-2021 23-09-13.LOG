@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=SW1 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW2 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW3 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW4 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW5 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW7 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW8 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW9 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW10 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW11 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW13 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW14 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW15 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW16 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW17 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW19 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW20 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW21 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW22 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW23 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW25 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW28 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW29 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Change Component Footprint: Designator=SW30 Old Footprint=CherryMX-Hotswap-Dualside New Footprint=1u-CherryMX-Hotswap-Dualside
+Added Component: Designator=J1(LED)
+Added Component: Designator=JP1(JUMPER)
+Added Component: Designator=JP2(JUMPER)
+Added Component: Designator=JP3(JUMPER)
+Added Component: Designator=JP4(JUMPER)
+Added Component: Designator=JP5(JUMPER)
+Added Component: Designator=JP6(JUMPER)
+Added Component: Designator=JP7(JUMPER)
+Added Component: Designator=JP8(JUMPER)
+Added Component: Designator=JP9(JUMPER)
+Added Component: Designator=JP10(JUMPER_DATA)
+Added Component: Designator=JP11(JUMPER)
+Added Component: Designator=RSW1(RST_SWITCH)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=LED Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=RSW1-1
+Added Pin To Net: NetName=RESET Pin=RSW1-2
+Added Member To Class: ClassName=Ryu Member=Component J1 LED
+Added Member To Class: ClassName=Ryu Member=Component JP1 JP
+Added Member To Class: ClassName=Ryu Member=Component JP2 JP
+Added Member To Class: ClassName=Ryu Member=Component JP3 JP
+Added Member To Class: ClassName=Ryu Member=Component JP4 JP
+Added Member To Class: ClassName=Ryu Member=Component JP5 JP
+Added Member To Class: ClassName=Ryu Member=Component JP6 JP
+Added Member To Class: ClassName=Ryu Member=Component JP7 JP
+Added Member To Class: ClassName=Ryu Member=Component JP8 JP
+Added Member To Class: ClassName=Ryu Member=Component JP9 IC2SCL
+Added Member To Class: ClassName=Ryu Member=Component JP10 Serial
+Added Member To Class: ClassName=Ryu Member=Component JP11 IC2SDA
+Added Member To Class: ClassName=Ryu Member=Component RSW1 SW_RST
+Added Room: Name=Ryu

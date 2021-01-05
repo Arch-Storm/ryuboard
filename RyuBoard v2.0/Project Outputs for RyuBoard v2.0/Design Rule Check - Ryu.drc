@@ -1,0 +1,509 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\storm\Documents\GitHub\ryuboard\RyuBoard v2.0\Ryu.PcbDoc
+Date     : 05/01/2021
+Time     : 23:01:27
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (7.276mil < 10mil) Between Pad J2-1(13722.268mil,-701.181mil) on Multi-Layer And Pad J2-4(13791.165mil,-760.236mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.276mil < 10mil) Between Pad J2-1(13956.52mil,-701.181mil) on Multi-Layer And Pad J2-4(13887.622mil,-760.236mil) on Multi-Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW1-(1870mil,4380mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW1-(2170mil,4380mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW10-(4090mil,3740mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW10-(4390mil,3740mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW11-(4830mil,3380mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW11-(5130mil,3380mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW12-1(5608.976mil,3298.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW12-1(5660.158mil,3400.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW12-2(6177.874mil,3400.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW12-2(6229.055mil,3298.425mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW13-(1870mil,2900mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW13-(2170mil,2900mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW14-(2610mil,3000mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW14-(2910mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW15-(3350mil,3100mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW15-(3650mil,3100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW16-(4090mil,3000mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW16-(4390mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW17-(4830mil,2640mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW17-(5130mil,2640mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW18-1(5608.976mil,2558.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW18-1(5660.158mil,2660.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW18-2(6177.874mil,2660.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW18-2(6229.055mil,2558.425mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW19-(1870mil,2160mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW19-(2170mil,2160mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW2-(2610mil,4480mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW2-(2910mil,4480mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW20-(2610mil,2260mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW20-(2910mil,2260mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW21-(3350mil,2360mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW21-(3650mil,2360mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW22-(4090mil,2260mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW22-(4390mil,2260mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW23-(4830mil,1900mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW23-(5130mil,1900mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW24-1(5608.976mil,1808.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW24-1(5660.158mil,1910.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW24-2(6177.874mil,1910.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW24-2(6229.055mil,1808.425mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW25-(1130mil,2900mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW25-(1430mil,2900mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW27-(1062.699mil,1117.232mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW27-(1255.535mil,887.419mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW28-(1742.851mil,1253.441mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW28-(2019.003mil,1370.66mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW29-(2610mil,1520mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW29-(2910mil,1520mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW3-(3350mil,4580mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW3-(3650mil,4580mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW30-(3500.997mil,1370.66mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW30-(3777.149mil,1253.441mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW4-(4090mil,4480mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW4-(4390mil,4480mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW5-(4830mil,4120mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW5-(5130mil,4120mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW6-1(5608.976mil,4038.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW6-1(5660.158mil,4140.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW6-2(6177.874mil,4140.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Pad SW6-2(6229.055mil,4038.425mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW7-(1870mil,3640mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW7-(2170mil,3640mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW8-(2610mil,3740mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW8-(2910mil,3740mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW9-(3350mil,3840mil) on Multi-Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.036mil < 10mil) Between Pad SW9-(3650mil,3840mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+Rule Violations :68
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad SW12-1(5608.976mil,3298.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 6608.976mil][Y = 4298.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW12-1(5660.158mil,3400.787mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 6660.158mil][Y = 4400.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW12-2(6177.874mil,3400.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 7177.874mil][Y = 4400.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW12-2(6229.055mil,3298.425mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 7229.055mil][Y = 4298.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW18-1(5608.976mil,2558.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 6608.976mil][Y = 3558.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW18-1(5660.158mil,2660.787mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 6660.158mil][Y = 3660.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW18-2(6177.874mil,2660.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 7177.874mil][Y = 3660.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW18-2(6229.055mil,2558.425mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 7229.055mil][Y = 3558.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW24-1(5608.976mil,1808.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 6608.976mil][Y = 2808.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW24-1(5660.158mil,1910.787mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 6660.158mil][Y = 2910.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW24-2(6177.874mil,1910.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 7177.874mil][Y = 2910.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW24-2(6229.055mil,1808.425mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 7229.055mil][Y = 2808.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW6-1(5608.976mil,4038.425mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 6608.976mil][Y = 5038.425mil]
+   Violation between Short-Circuit Constraint: Between Pad SW6-1(5660.158mil,4140.787mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 6660.158mil][Y = 5140.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW6-2(6177.874mil,4140.787mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 7177.874mil][Y = 5140.787mil]
+   Violation between Short-Circuit Constraint: Between Pad SW6-2(6229.055mil,4038.425mil) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 7229.055mil][Y = 5038.425mil]
+Rule Violations :16
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net row1 Between Pad D10-1(19143.842mil,-462.599mil) on Multi-Layer And Pad D11-1(19363.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row1 Between Pad D9-1(18973.842mil,-462.599mil) on Multi-Layer And Pad D10-1(19143.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD10_2 Between Pad SW10-2(4549.055mil,3738.425mil) on Top Layer And Pad D10-2(19143.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row0 Between Pad D1-1(24338.842mil,-462.599mil) on Multi-Layer And Pad D2-1(24488.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row1 Between Pad D11-1(19363.842mil,-462.599mil) on Multi-Layer And Pad D12-1(19563.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD11_2 Between Pad SW11-2(5289.055mil,3378.425mil) on Top Layer And Pad D11-2(19363.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_2 Between Pad SW1-2(2329.055mil,4378.425mil) on Top Layer And Pad D1-2(24338.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD12_2 Between Pad SW12-2(6229.055mil,3298.425mil) on Top Layer And Pad D12-2(19563.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D13-1(12393.843mil,-462.599mil) on Multi-Layer And Pad D14-1(12613.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D24-1(7293.842mil,-462.599mil) on Multi-Layer And Pad D13-1(12393.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD13_2 Between Pad SW13-2(2329.055mil,2898.425mil) on Top Layer And Pad D13-2(12393.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D14-1(12613.843mil,-462.599mil) on Multi-Layer And Pad D15-1(12833.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD14_2 Between Pad SW14-2(3069.055mil,2998.425mil) on Top Layer And Pad D14-2(12613.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D15-1(12833.843mil,-462.599mil) on Multi-Layer And Pad D16-1(13053.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD15_2 Between Pad SW15-2(3809.055mil,3098.425mil) on Top Layer And Pad D15-2(12833.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D16-1(13053.843mil,-462.599mil) on Multi-Layer And Pad D17-1(13273.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_2 Between Pad SW16-2(4549.055mil,2998.425mil) on Top Layer And Pad D16-2(13053.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D17-1(13273.843mil,-462.599mil) on Multi-Layer And Pad D18-1(13493.843mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD17_2 Between Pad SW17-2(5289.055mil,2638.425mil) on Top Layer And Pad D17-2(13273.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD18_2 Between Pad SW18-2(6229.055mil,2558.425mil) on Top Layer And Pad D18-2(13493.843mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D19-1(6173.842mil,-462.599mil) on Multi-Layer And Pad D19-2(6173.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D19-1(6173.842mil,-462.599mil) on Multi-Layer And Pad D20-1(6393.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad SW19-2(2329.055mil,2158.425mil) on Top Layer And Pad D19-2(6173.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D20-1(6393.842mil,-462.599mil) on Multi-Layer And Pad D21-1(6623.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD20_2 Between Pad SW20-2(3069.055mil,2258.425mil) on Top Layer And Pad D20-2(6393.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row0 Between Pad D2-1(24488.842mil,-462.599mil) on Multi-Layer And Pad D3-1(24658.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D21-1(6623.842mil,-462.599mil) on Multi-Layer And Pad D22-1(6833.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD21_2 Between Pad SW21-2(3809.055mil,2358.425mil) on Top Layer And Pad D21-2(6623.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD2_2 Between Pad SW2-2(3069.055mil,4478.425mil) on Top Layer And Pad D2-2(24488.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D22-1(6833.842mil,-462.599mil) on Multi-Layer And Pad D23-1(7063.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD22_2 Between Pad SW22-2(4549.055mil,2258.425mil) on Top Layer And Pad D22-2(6833.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad D23-1(7063.842mil,-462.599mil) on Multi-Layer And Pad D24-1(7293.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_2 Between Pad SW23-2(5289.055mil,1898.425mil) on Top Layer And Pad D23-2(7063.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD24_2 Between Pad SW24-2(6229.055mil,1808.425mil) on Top Layer And Pad D24-2(7293.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row4 Between Pad D25-1(828.842mil,-462.599mil) on Multi-Layer And Pad D26-1(1058.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD25_2 Between Pad D25-2(828.842mil,-328.74mil) on Multi-Layer And Pad SW25-2(1589.055mil,2898.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net row4 Between Pad D26-1(1058.842mil,-462.599mil) on Multi-Layer And Pad D27-1(1288.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SW26B Between Pad D26-2(1058.842mil,-328.74mil) on Multi-Layer And Pad RES-S2(1111.575mil,2265.591mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row4 Between Pad D27-1(1288.842mil,-462.599mil) on Multi-Layer And Pad D28-1(1518.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD27_2 Between Pad D27-2(1288.842mil,-328.74mil) on Multi-Layer And Pad SW27-2(1356.567mil,764.563mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net row4 Between Pad D28-1(1518.842mil,-462.599mil) on Multi-Layer And Pad D29-1(1748.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD28_2 Between Pad D28-2(1518.842mil,-328.74mil) on Multi-Layer And Pad SW28-2(2078.92mil,1505.585mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net row4 Between Pad D29-1(1748.842mil,-462.599mil) on Multi-Layer And Pad D30-1(1978.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD29_2 Between Pad D29-2(1748.842mil,-328.74mil) on Multi-Layer And Pad SW29-2(3069.055mil,1518.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD30_2 Between Pad D30-2(1978.842mil,-328.74mil) on Multi-Layer And Pad SW30-2(3922.945mil,1189.843mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net row0 Between Pad D3-1(24658.842mil,-462.599mil) on Multi-Layer And Pad D4-1(24828.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Pad SW3-2(3809.055mil,4578.425mil) on Top Layer And Pad D3-2(24658.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row0 Between Pad D4-1(24828.842mil,-462.599mil) on Multi-Layer And Pad D5-1(24998.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD4_2 Between Pad SW4-2(4549.055mil,4478.425mil) on Top Layer And Pad D4-2(24828.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row0 Between Pad D5-1(24998.842mil,-462.599mil) on Multi-Layer And Pad D6-1(25168.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD5_2 Between Pad SW5-2(5289.055mil,4118.425mil) on Top Layer And Pad D5-2(24998.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD6_2 Between Pad SW6-2(6229.055mil,4038.425mil) on Top Layer And Pad D6-2(25168.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row1 Between Pad D7-1(18633.842mil,-462.599mil) on Multi-Layer And Pad D8-1(18803.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD7_2 Between Pad SW7-2(2329.055mil,3638.425mil) on Top Layer And Pad D7-2(18633.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net row1 Between Pad D8-1(18803.842mil,-462.599mil) on Multi-Layer And Pad D9-1(18973.842mil,-462.599mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD8_2 Between Pad SW8-2(3069.055mil,3738.425mil) on Top Layer And Pad D8-2(18803.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD9_2 Between Pad SW9-2(3809.055mil,3838.425mil) on Top Layer And Pad D9-2(18973.842mil,-328.74mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad J2-1(13722.268mil,-701.181mil) on Multi-Layer And Pad J2-1(13956.52mil,-701.181mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad R2-1(7678.842mil,-525.669mil) on Multi-Layer And Pad J2-1(13722.268mil,-701.181mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-2(13722.268mil,-543.701mil) on Multi-Layer And Pad J2-2(13956.52mil,-543.701mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad RES-C(1308.425mil,1694.724mil) on Multi-Layer And Pad J2-2(13722.268mil,-543.701mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_3 Between Pad J2-3(13722.268mil,-425.591mil) on Multi-Layer And Pad J2-3(13956.52mil,-425.591mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_4 Between Pad J2-4(13791.165mil,-760.236mil) on Multi-Layer And Pad J2-4(13887.622mil,-760.236mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad R1-1(7528.842mil,-525.669mil) on Multi-Layer And Pad R2-1(7678.842mil,-525.669mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad RES-S1(1308.425mil,2265.591mil) on Multi-Layer And Pad SW20-1(2448.976mil,2258.425mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW10-1(3928.976mil,3738.425mil) on Bottom Layer And Pad SW10-1(3980.157mil,3840.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW10-1(3928.976mil,3738.425mil) on Bottom Layer And Pad SW16-1(3980.157mil,3100.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW4-1(3928.976mil,4478.425mil) on Bottom Layer And Pad SW10-1(3980.157mil,3840.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD10_2 Between Pad SW10-2(4497.874mil,3840.787mil) on Bottom Layer And Pad SW10-2(4549.055mil,3738.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW1-1(1708.976mil,4378.425mil) on Bottom Layer And Pad SW1-1(1760.158mil,4480.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW1-1(1708.976mil,4378.425mil) on Bottom Layer And Pad SW7-1(1760.158mil,3740.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW11-1(4668.976mil,3378.425mil) on Bottom Layer And Pad SW11-1(4720.158mil,3480.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW11-1(4668.976mil,3378.425mil) on Bottom Layer And Pad SW17-1(4720.158mil,2740.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW5-1(4668.976mil,4118.425mil) on Bottom Layer And Pad SW11-1(4720.158mil,3480.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD11_2 Between Pad SW11-2(5237.874mil,3480.787mil) on Bottom Layer And Pad SW11-2(5289.055mil,3378.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_2 Between Pad SW1-2(2277.874mil,4480.787mil) on Bottom Layer And Pad SW1-2(2329.055mil,4378.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW12-1(5608.976mil,3298.425mil) on Bottom Layer And Pad SW12-1(5660.158mil,3400.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW12-1(5608.976mil,3298.425mil) on Bottom Layer And Pad SW18-1(5660.158mil,2660.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW6-1(5608.976mil,4038.425mil) on Bottom Layer And Pad SW12-1(5660.158mil,3400.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD12_2 Between Pad SW12-2(6177.874mil,3400.787mil) on Bottom Layer And Pad SW12-2(6229.055mil,3298.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW13-1(1708.976mil,2898.425mil) on Bottom Layer And Pad SW13-1(1760.158mil,3000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW13-1(1708.976mil,2898.425mil) on Bottom Layer And Pad SW19-1(1760.158mil,2260.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW25-1(1020.158mil,3000.787mil) on Top Layer And Pad SW13-1(1760.158mil,3000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW7-1(1708.976mil,3638.425mil) on Bottom Layer And Pad SW13-1(1760.158mil,3000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD13_2 Between Pad SW13-2(2277.874mil,3000.787mil) on Bottom Layer And Pad SW13-2(2329.055mil,2898.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW14-1(2448.976mil,2998.425mil) on Bottom Layer And Pad SW14-1(2500.157mil,3100.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW14-1(2448.976mil,2998.425mil) on Bottom Layer And Pad SW20-1(2500.157mil,2360.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW8-1(2448.976mil,3738.425mil) on Bottom Layer And Pad SW14-1(2500.157mil,3100.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD14_2 Between Pad SW14-2(3017.874mil,3100.787mil) on Bottom Layer And Pad SW14-2(3069.055mil,2998.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW15-1(3188.976mil,3098.425mil) on Bottom Layer And Pad SW15-1(3240.157mil,3200.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW15-1(3188.976mil,3098.425mil) on Bottom Layer And Pad SW21-1(3240.157mil,2460.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW9-1(3188.976mil,3838.425mil) on Bottom Layer And Pad SW15-1(3240.157mil,3200.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD15_2 Between Pad SW15-2(3757.874mil,3200.787mil) on Bottom Layer And Pad SW15-2(3809.055mil,3098.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW16-1(3928.976mil,2998.425mil) on Bottom Layer And Pad SW16-1(3980.157mil,3100.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW16-1(3928.976mil,2998.425mil) on Bottom Layer And Pad SW22-1(3980.157mil,2360.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD16_2 Between Pad SW16-2(4497.874mil,3100.787mil) on Bottom Layer And Pad SW16-2(4549.055mil,2998.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW17-1(4668.976mil,2638.425mil) on Bottom Layer And Pad SW17-1(4720.158mil,2740.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW17-1(4668.976mil,2638.425mil) on Bottom Layer And Pad SW23-1(4720.158mil,2000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD17_2 Between Pad SW17-2(5237.874mil,2740.787mil) on Bottom Layer And Pad SW17-2(5289.055mil,2638.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW18-1(5608.976mil,2558.425mil) on Bottom Layer And Pad SW18-1(5660.158mil,2660.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW18-1(5608.976mil,2558.425mil) on Bottom Layer And Pad SW24-1(5660.158mil,1910.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD18_2 Between Pad SW18-2(6177.874mil,2660.787mil) on Bottom Layer And Pad SW18-2(6229.055mil,2558.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW19-1(1708.976mil,2158.425mil) on Bottom Layer And Pad SW19-1(1760.158mil,2260.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net row2 Between Pad SW19-2(2277.874mil,2260.787mil) on Bottom Layer And Pad SW19-2(2329.055mil,2158.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW20-1(2448.976mil,2258.425mil) on Bottom Layer And Pad SW20-1(2500.157mil,2360.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD20_2 Between Pad SW20-2(3017.874mil,2360.787mil) on Bottom Layer And Pad SW20-2(3069.055mil,2258.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW2-1(2448.976mil,4478.425mil) on Bottom Layer And Pad SW2-1(2500.157mil,4580.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW2-1(2448.976mil,4478.425mil) on Bottom Layer And Pad SW8-1(2500.157mil,3840.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW21-1(3188.976mil,2358.425mil) on Bottom Layer And Pad SW21-1(3240.157mil,2460.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW27-1(1069.301mil,1266.161mil) on Top Layer And Pad SW21-1(3188.976mil,2358.425mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD21_2 Between Pad SW21-2(3757.874mil,2460.787mil) on Bottom Layer And Pad SW21-2(3809.055mil,2358.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD2_2 Between Pad SW2-2(3017.874mil,4580.787mil) on Bottom Layer And Pad SW2-2(3069.055mil,4478.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW22-1(3928.976mil,2258.425mil) on Bottom Layer And Pad SW22-1(3980.157mil,2360.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW28-1(1602.36mil,1303.297mil) on Top Layer And Pad SW22-1(3928.976mil,2258.425mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD22_2 Between Pad SW22-2(4497.874mil,2360.787mil) on Bottom Layer And Pad SW22-2(4549.055mil,2258.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW23-1(4668.976mil,1898.425mil) on Bottom Layer And Pad SW23-1(4720.158mil,2000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW29-1(2500.157mil,1620.787mil) on Top Layer And Pad SW23-1(4668.976mil,1898.425mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD23_2 Between Pad SW23-2(5237.874mil,2000.787mil) on Bottom Layer And Pad SW23-2(5289.055mil,1898.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW24-1(5608.976mil,1808.425mil) on Bottom Layer And Pad SW24-1(5660.158mil,1910.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW30-1(3439.268mil,1506.354mil) on Top Layer And Pad SW24-1(5608.976mil,1808.425mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetD24_2 Between Pad SW24-2(6177.874mil,1910.787mil) on Bottom Layer And Pad SW24-2(6229.055mil,1808.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW25-1(968.976mil,2898.425mil) on Bottom Layer And Pad SW25-1(1020.158mil,3000.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD25_2 Between Pad SW25-2(1537.874mil,3000.787mil) on Bottom Layer And Pad SW25-2(1589.055mil,2898.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW27-1(957.988mil,1239.571mil) on Bottom Layer And Pad SW27-1(1069.301mil,1266.161mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD27_2 Between Pad SW27-2(1356.567mil,764.563mil) on Top Layer And Pad SW27-2(1402.083mil,869.568mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW28-1(1595.244mil,1189.074mil) on Bottom Layer And Pad SW28-1(1602.36mil,1303.297mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD28_2 Between Pad SW28-2(2078.92mil,1505.585mil) on Bottom Layer And Pad SW28-2(2166.029mil,1431.358mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW29-1(2448.976mil,1518.425mil) on Bottom Layer And Pad SW29-1(2500.157mil,1620.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD29_2 Between Pad SW29-2(3017.874mil,1620.787mil) on Bottom Layer And Pad SW29-2(3069.055mil,1518.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW30-1(3352.159mil,1432.128mil) on Bottom Layer And Pad SW30-1(3439.268mil,1506.354mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD30_2 Between Pad SW30-2(3915.828mil,1304.066mil) on Bottom Layer And Pad SW30-2(3922.945mil,1189.843mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW3-1(3188.976mil,4578.425mil) on Bottom Layer And Pad SW3-1(3240.157mil,4680.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW3-1(3188.976mil,4578.425mil) on Bottom Layer And Pad SW9-1(3240.157mil,3940.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD3_2 Between Pad SW3-2(3757.874mil,4680.787mil) on Bottom Layer And Pad SW3-2(3809.055mil,4578.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col2 Between Pad SW4-1(3928.976mil,4478.425mil) on Bottom Layer And Pad SW4-1(3980.157mil,4580.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD4_2 Between Pad SW4-2(4497.874mil,4580.787mil) on Bottom Layer And Pad SW4-2(4549.055mil,4478.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col1 Between Pad SW5-1(4668.976mil,4118.425mil) on Bottom Layer And Pad SW5-1(4720.158mil,4220.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD5_2 Between Pad SW5-2(5237.874mil,4220.787mil) on Bottom Layer And Pad SW5-2(5289.055mil,4118.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col0 Between Pad SW6-1(5608.976mil,4038.425mil) on Bottom Layer And Pad SW6-1(5660.158mil,4140.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD6_2 Between Pad SW6-2(6177.874mil,4140.787mil) on Bottom Layer And Pad SW6-2(6229.055mil,4038.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col5 Between Pad SW7-1(1708.976mil,3638.425mil) on Bottom Layer And Pad SW7-1(1760.158mil,3740.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD7_2 Between Pad SW7-2(2277.874mil,3740.787mil) on Bottom Layer And Pad SW7-2(2329.055mil,3638.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col4 Between Pad SW8-1(2448.976mil,3738.425mil) on Bottom Layer And Pad SW8-1(2500.157mil,3840.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD8_2 Between Pad SW8-2(3017.874mil,3840.787mil) on Bottom Layer And Pad SW8-2(3069.055mil,3738.425mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net col3 Between Pad SW9-1(3188.976mil,3838.425mil) on Bottom Layer And Pad SW9-1(3240.157mil,3940.787mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD9_2 Between Pad SW9-2(3757.874mil,3940.787mil) on Bottom Layer And Pad SW9-2(3809.055mil,3838.425mil) on Top Layer 
+Rule Violations :146
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (110.236mil > 100mil) Pad RES-MP(1430.472mil,1990mil) on Multi-Layer Actual Slot Hole Width = 110.236mil
+   Violation between Hole Size Constraint: (110.236mil > 100mil) Pad RES-MP(989.528mil,1990mil) on Multi-Layer Actual Slot Hole Width = 110.236mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW1-(1870mil,4380mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW1-(1920mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW1-(2020mil,4280mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW1-(2120mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW1-(2170mil,4380mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW10-(4090mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW10-(4140mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW10-(4240mil,3640mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW10-(4340mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW10-(4390mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW11-(4830mil,3380mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW11-(4880mil,3480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW11-(4980mil,3280mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW11-(5080mil,3480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW11-(5130mil,3380mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW12-(5770mil,3300mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW12-(5820mil,3400mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW12-(5920mil,3200mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW12-(6020mil,3400mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW12-(6070mil,3300mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW13-(1870mil,2900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW13-(1920mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW13-(2020mil,2800mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW13-(2120mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW13-(2170mil,2900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW14-(2610mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW14-(2660mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW14-(2760mil,2900mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW14-(2860mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW14-(2910mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW15-(3350mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW15-(3400mil,3200mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW15-(3500mil,3000mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW15-(3600mil,3200mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW15-(3650mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW16-(4090mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW16-(4140mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW16-(4240mil,2900mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW16-(4340mil,3100mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW16-(4390mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW17-(4830mil,2640mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW17-(4880mil,2740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW17-(4980mil,2540mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW17-(5080mil,2740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW17-(5130mil,2640mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW18-(5770mil,2560mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW18-(5820mil,2660mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW18-(5920mil,2460mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW18-(6020mil,2660mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW18-(6070mil,2560mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW19-(1870mil,2160mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW19-(1920mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW19-(2020mil,2060mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW19-(2120mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW19-(2170mil,2160mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW2-(2610mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW2-(2660mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW2-(2760mil,4380mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW2-(2860mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW2-(2910mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW20-(2610mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW20-(2660mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW20-(2760mil,2160mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW20-(2860mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW20-(2910mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW21-(3350mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW21-(3400mil,2460mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW21-(3500mil,2260mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW21-(3600mil,2460mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW21-(3650mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW22-(4090mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW22-(4140mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW22-(4240mil,2160mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW22-(4340mil,2360mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW22-(4390mil,2260mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW23-(4830mil,1900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW23-(4880mil,2000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW23-(4980mil,1800mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW23-(5080mil,2000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW23-(5130mil,1900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW24-(5770mil,1810mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW24-(5820mil,1910mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW24-(5920mil,1710mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW24-(6020mil,1910mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW24-(6070mil,1810mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW25-(1130mil,2900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW25-(1180mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW25-(1280mil,2800mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW25-(1380mil,3000mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW25-(1430mil,2900mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW27-(1062.699mil,1117.232mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW27-(1082.512mil,938.047mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW27-(1171.442mil,1143.209mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW27-(1255.535mil,887.419mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW27-(1300mil,990mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW28-(1742.851mil,1253.441mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW28-(1749.803mil,1365.028mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW28-(1920mil,1220mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW28-(1933.904mil,1443.174mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW28-(2019.003mil,1370.66mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW29-(2610mil,1520mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW29-(2660mil,1620mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW29-(2760mil,1420mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW29-(2860mil,1620mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW29-(2910mil,1520mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW3-(3350mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW3-(3400mil,4680mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW3-(3500mil,4480mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW3-(3600mil,4680mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW3-(3650mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW30-(3500.997mil,1370.66mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW30-(3586.096mil,1443.174mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW30-(3600mil,1220mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW30-(3770.197mil,1365.028mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW30-(3777.149mil,1253.441mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW4-(4090mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW4-(4140mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW4-(4240mil,4380mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW4-(4340mil,4580mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW4-(4390mil,4480mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW5-(4830mil,4120mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW5-(4880mil,4220mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW5-(4980mil,4020mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW5-(5080mil,4220mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW5-(5130mil,4120mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW6-(5770mil,4040mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW6-(5820mil,4140mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW6-(5920mil,3940mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW6-(6020mil,4140mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW6-(6070mil,4040mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW7-(1870mil,3640mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW7-(1920mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW7-(2020mil,3540mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW7-(2120mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW7-(2170mil,3640mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW8-(2610mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW8-(2660mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW8-(2760mil,3640mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW8-(2860mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW8-(2910mil,3740mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW9-(3350mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW9-(3400mil,3940mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (157.48mil > 100mil) Pad SW9-(3500mil,3740mil) on Multi-Layer Actual Hole Size = 157.48mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW9-(3600mil,3940mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad SW9-(3650mil,3840mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (161.417mil > 100mil) Pad TH1-(2370mil,3910mil) on Multi-Layer Actual Hole Size = 161.417mil
+   Violation between Hole Size Constraint: (161.417mil > 100mil) Pad TH2-(-81.157mil,-390.67mil) on Multi-Layer Actual Hole Size = 161.417mil
+   Violation between Hole Size Constraint: (161.417mil > 100mil) Pad TH3-(163.843mil,-390.67mil) on Multi-Layer Actual Hole Size = 161.417mil
+   Violation between Hole Size Constraint: (161.417mil > 100mil) Pad TH4-(403.842mil,-390.67mil) on Multi-Layer Actual Hole Size = 161.417mil
+   Violation between Hole Size Constraint: (161.417mil > 100mil) Pad TH5-(648.842mil,-390.67mil) on Multi-Layer Actual Hole Size = 161.417mil
+Rule Violations :152
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW1-(1870mil,4380mil) on Multi-Layer And Pad SW1-(1920mil,4480mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW1-(2120mil,4480mil) on Multi-Layer And Pad SW1-(2170mil,4380mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW10-(4090mil,3740mil) on Multi-Layer And Pad SW10-(4140mil,3840mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW10-(4340mil,3840mil) on Multi-Layer And Pad SW10-(4390mil,3740mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW11-(4830mil,3380mil) on Multi-Layer And Pad SW11-(4880mil,3480mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW11-(5080mil,3480mil) on Multi-Layer And Pad SW11-(5130mil,3380mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW12-(5770mil,3300mil) on Multi-Layer And Pad SW12-(5820mil,3400mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW12-(6020mil,3400mil) on Multi-Layer And Pad SW12-(6070mil,3300mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW13-(1870mil,2900mil) on Multi-Layer And Pad SW13-(1920mil,3000mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW13-(2120mil,3000mil) on Multi-Layer And Pad SW13-(2170mil,2900mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW14-(2610mil,3000mil) on Multi-Layer And Pad SW14-(2660mil,3100mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW14-(2860mil,3100mil) on Multi-Layer And Pad SW14-(2910mil,3000mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW15-(3350mil,3100mil) on Multi-Layer And Pad SW15-(3400mil,3200mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW15-(3600mil,3200mil) on Multi-Layer And Pad SW15-(3650mil,3100mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW16-(4090mil,3000mil) on Multi-Layer And Pad SW16-(4140mil,3100mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW16-(4340mil,3100mil) on Multi-Layer And Pad SW16-(4390mil,3000mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW17-(4830mil,2640mil) on Multi-Layer And Pad SW17-(4880mil,2740mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW17-(5080mil,2740mil) on Multi-Layer And Pad SW17-(5130mil,2640mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW18-(5770mil,2560mil) on Multi-Layer And Pad SW18-(5820mil,2660mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW18-(6020mil,2660mil) on Multi-Layer And Pad SW18-(6070mil,2560mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW19-(1870mil,2160mil) on Multi-Layer And Pad SW19-(1920mil,2260mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW19-(2120mil,2260mil) on Multi-Layer And Pad SW19-(2170mil,2160mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW2-(2610mil,4480mil) on Multi-Layer And Pad SW2-(2660mil,4580mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW2-(2860mil,4580mil) on Multi-Layer And Pad SW2-(2910mil,4480mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW20-(2610mil,2260mil) on Multi-Layer And Pad SW20-(2660mil,2360mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW20-(2860mil,2360mil) on Multi-Layer And Pad SW20-(2910mil,2260mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW21-(3350mil,2360mil) on Multi-Layer And Pad SW21-(3400mil,2460mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW21-(3600mil,2460mil) on Multi-Layer And Pad SW21-(3650mil,2360mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW22-(4090mil,2260mil) on Multi-Layer And Pad SW22-(4140mil,2360mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW22-(4340mil,2360mil) on Multi-Layer And Pad SW22-(4390mil,2260mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW23-(4830mil,1900mil) on Multi-Layer And Pad SW23-(4880mil,2000mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW23-(5080mil,2000mil) on Multi-Layer And Pad SW23-(5130mil,1900mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW24-(5770mil,1810mil) on Multi-Layer And Pad SW24-(5820mil,1910mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW24-(6020mil,1910mil) on Multi-Layer And Pad SW24-(6070mil,1810mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW25-(1130mil,2900mil) on Multi-Layer And Pad SW25-(1180mil,3000mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW25-(1380mil,3000mil) on Multi-Layer And Pad SW25-(1430mil,2900mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW27-(1062.699mil,1117.232mil) on Multi-Layer And Pad SW27-(1171.442mil,1143.209mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW27-(1255.535mil,887.419mil) on Multi-Layer And Pad SW27-(1300mil,990mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW28-(1742.851mil,1253.441mil) on Multi-Layer And Pad SW28-(1749.803mil,1365.028mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW28-(1933.904mil,1443.174mil) on Multi-Layer And Pad SW28-(2019.003mil,1370.66mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW29-(2610mil,1520mil) on Multi-Layer And Pad SW29-(2660mil,1620mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW29-(2860mil,1620mil) on Multi-Layer And Pad SW29-(2910mil,1520mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW3-(3350mil,4580mil) on Multi-Layer And Pad SW3-(3400mil,4680mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW3-(3600mil,4680mil) on Multi-Layer And Pad SW3-(3650mil,4580mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW30-(3500.997mil,1370.66mil) on Multi-Layer And Pad SW30-(3586.096mil,1443.174mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW30-(3770.197mil,1365.028mil) on Multi-Layer And Pad SW30-(3777.149mil,1253.441mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW4-(4090mil,4480mil) on Multi-Layer And Pad SW4-(4140mil,4580mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW4-(4340mil,4580mil) on Multi-Layer And Pad SW4-(4390mil,4480mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW5-(4830mil,4120mil) on Multi-Layer And Pad SW5-(4880mil,4220mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW5-(5080mil,4220mil) on Multi-Layer And Pad SW5-(5130mil,4120mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW6-(5770mil,4040mil) on Multi-Layer And Pad SW6-(5820mil,4140mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW6-(6020mil,4140mil) on Multi-Layer And Pad SW6-(6070mil,4040mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW7-(1870mil,3640mil) on Multi-Layer And Pad SW7-(1920mil,3740mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW7-(2120mil,3740mil) on Multi-Layer And Pad SW7-(2170mil,3640mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW8-(2610mil,3740mil) on Multi-Layer And Pad SW8-(2660mil,3840mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW8-(2860mil,3840mil) on Multi-Layer And Pad SW8-(2910mil,3740mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW9-(3350mil,3840mil) on Multi-Layer And Pad SW9-(3400mil,3940mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad SW9-(3600mil,3940mil) on Multi-Layer And Pad SW9-(3650mil,3840mil) on Multi-Layer Pad/Via Touching Holes
+Rule Violations :58
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-1(13722.268mil,-701.181mil) on Multi-Layer And Track (13686.835mil,-768.11mil)(13686.835mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-1(13722.268mil,-701.181mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13755.732mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-1(13956.52mil,-701.181mil) on Multi-Layer And Track (13923.055mil,-768.11mil)(13923.055mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-1(13956.52mil,-701.181mil) on Multi-Layer And Track (13991.953mil,-768.11mil)(13991.953mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-2(13722.268mil,-543.701mil) on Multi-Layer And Track (13686.835mil,-768.11mil)(13686.835mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-2(13722.268mil,-543.701mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13755.732mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-2(13956.52mil,-543.701mil) on Multi-Layer And Track (13923.055mil,-768.11mil)(13923.055mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-2(13956.52mil,-543.701mil) on Multi-Layer And Track (13991.953mil,-768.11mil)(13991.953mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-3(13722.268mil,-425.591mil) on Multi-Layer And Track (13686.835mil,-768.11mil)(13686.835mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-3(13722.268mil,-425.591mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13755.732mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-3(13956.52mil,-425.591mil) on Multi-Layer And Track (13923.055mil,-768.11mil)(13923.055mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-3(13956.52mil,-425.591mil) on Multi-Layer And Track (13991.953mil,-768.11mil)(13991.953mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13791.165mil,-760.236mil) on Multi-Layer And Track (13686.835mil,-768.11mil)(13923.055mil,-768.11mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13791.165mil,-760.236mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13755.732mil,-295.67mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13791.165mil,-760.236mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13991.953mil,-768.11mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13887.622mil,-760.236mil) on Multi-Layer And Track (13686.835mil,-768.11mil)(13923.055mil,-768.11mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13887.622mil,-760.236mil) on Multi-Layer And Track (13755.732mil,-768.11mil)(13991.953mil,-768.11mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J2-4(13887.622mil,-760.236mil) on Multi-Layer And Track (13923.055mil,-768.11mil)(13923.055mil,-295.67mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+Rule Violations :18
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (8.78mil < 10mil) Between Text "SW28" (1465mil,1715mil) on Top Overlay And Track (1446.22mil,1753.78mil)(1446.22mil,1911.26mil) on Top Overlay Silk Text to Silk Clearance [8.78mil]
+   Violation between Silk To Silk Clearance Constraint: (8.818mil < 10mil) Between Text "SW28" (1465mil,1715mil) on Top Overlay And Track (973.779mil,1753.78mil)(1446.22mil,1753.78mil) on Top Overlay Silk Text to Silk Clearance [8.818mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "SW8" (2416mil,4024mil) on Top Overlay And Text "TH1" (2283mil,4037mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :3
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 461
+Waived Violations : 0
+Time Elapsed        : 00:00:02

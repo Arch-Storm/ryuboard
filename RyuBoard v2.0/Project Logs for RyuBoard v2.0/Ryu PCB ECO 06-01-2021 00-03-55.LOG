@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP9 Old Footprint=JUMPER New Footprint=JUMPER_Triangle
+Change Component Footprint: Designator=JP11 Old Footprint=JUMPER New Footprint=JUMPER_Triangle
+Change Physical Footprint: Designator=JP10 Old Footprint=JUMPER_DATA New Footprint=JUMPER_DATA

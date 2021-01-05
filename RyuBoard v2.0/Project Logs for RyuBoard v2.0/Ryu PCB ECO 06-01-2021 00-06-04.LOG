@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP11
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP10
+Added Pin To Net: NetName=NetJ3_1 Pin=JP1-J1
+Added Pin To Net: NetName=GND Pin=JP1-J2
+Added Pin To Net: NetName=NetJ3_2 Pin=JP2-J1
+Added Pin To Net: NetName=VCC Pin=JP2-J2
+Added Pin To Net: NetName=NetJ3_3 Pin=JP3-J1
+Added Pin To Net: NetName=SCL Pin=JP3-J2
+Added Pin To Net: NetName=NetJ3_4 Pin=JP4-J1
+Added Pin To Net: NetName=SDA Pin=JP4-J2
+Added Pin To Net: NetName=NetJ3_1 Pin=JP5-J1
+Added Pin To Net: NetName=SDA Pin=JP5-J2
+Added Pin To Net: NetName=NetJ3_2 Pin=JP6-J1
+Added Pin To Net: NetName=SCL Pin=JP6-J2
+Added Pin To Net: NetName=NetJ3_3 Pin=JP7-J1
+Added Pin To Net: NetName=VCC Pin=JP7-J2
+Added Pin To Net: NetName=NetJ3_4 Pin=JP8-J1
+Added Pin To Net: NetName=GND Pin=JP8-J2
+Added Pin To Net: NetName=NetJ2_4 Pin=JP9-J1
+Added Pin To Net: NetName=SCL Pin=JP9-J2
+Added Pin To Net: NetName=NetJ2_3 Pin=JP10-J1
+Added Pin To Net: NetName=SDA Pin=JP10-J2
+Added Pin To Net: NetName=NetJ2_3 Pin=JP11-J1
+Added Pin To Net: NetName=DATA Pin=JP11-J2
+Added Room: Name=Ryu

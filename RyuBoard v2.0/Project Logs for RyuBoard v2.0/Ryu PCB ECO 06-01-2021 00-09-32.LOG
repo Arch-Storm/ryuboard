@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DATA Pin=J2-3
+Added Pin To Net: NetName=DATA Pin=J2-3
+Added Pin To Net: NetName=DATA Pin=JP10-J1
+Added Member To Class: ClassName=Ryu Member=Component JP11 Serial
