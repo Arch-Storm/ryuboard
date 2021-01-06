@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=J2 Old Footprint=TRRS New Footprint=TRRS
+Change Physical Footprint: Designator=JP11 Old Footprint=JUMPER_DATA New Footprint=JUMPER_DATA
+Change Physical Footprint: Designator=RSW1 Old Footprint=RST_SWITCH New Footprint=RST_SWITCH
+Change Physical Footprint: Designator=U Old Footprint=ProMicro New Footprint=ProMicro
