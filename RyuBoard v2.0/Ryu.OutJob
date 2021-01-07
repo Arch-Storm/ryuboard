@@ -15,12 +15,12 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Ryu.OutJob
+Name=
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
-VariantScope=1
-CurrentConfigurationName=
+VariantScope=2
+CurrentConfigurationName=Fabrication
 TargetPrinter=HPFF11A4 (HP Officejet 4630 series) (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Folder Structure
@@ -28,7 +28,7 @@ OutputMedium1_Type=GeneratedFiles
 OutputType1=Gerber X2
 OutputName1=Gerber X2 Files
 OutputCategory1=Fabrication
-OutputDocumentPath1=
+OutputDocumentPath1=Ryu.PcbDoc
 OutputVariantName1=
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=1
@@ -36,18 +36,16 @@ OutputDefault1=0
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=
+OutputDocumentPath2=Ryu.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=2
 OutputDefault2=0
-Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\storm\Documents\GitHub\ryuboard\RyuBoard v2.0\Ryu.PcbDoc
 
 [PublishSettings]
 OutputFilePath1=C:\Users\storm\Documents\GitHub\ryuboard\RyuBoard v2.0\Project Outputs for RyuBoard v2.0\
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for RyuBoard v2.0
+OutputBasePath1=
 OutputPathMedia1=
 OutputPathMediaValue1=
 OutputPathOutputer1=[Output Type]
