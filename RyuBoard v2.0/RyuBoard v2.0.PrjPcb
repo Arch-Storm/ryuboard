@@ -45,7 +45,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\Ryu.OutJob
+DocumentPath=Ryu.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
