@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\storm\AppData\Local\TempReleases\Snapshot\2\Ryu.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ryu-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ryu-slotholes.txt|DrillLayers=gtl,gbl
