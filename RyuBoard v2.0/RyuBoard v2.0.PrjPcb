@@ -171,6 +171,16 @@ OutputJobsCount=0
 ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
 ConfigurationType=Custom
 
+[Configuration5]
+Name=Custom - 2
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
