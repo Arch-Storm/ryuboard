@@ -2,8 +2,48 @@
 FileName = Ryu.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : Ryu.GPB
+Generating : Board Shape
+      File : Ryu.GM3
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Ryu.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Ryu.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -11,6 +51,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
+    D10
     D13
     D14
     D31
@@ -25,7 +66,9 @@ Used DCodes :
     D40
     D41
     D42
+    D43
     D44
+    D45
 *************************************************************
 
 *************************************************************
@@ -56,15 +99,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Ryu.GBO
+Generating : Bottom Paste
+      File : Ryu.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D12
+    D13
+    D14
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Ryu.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -78,6 +143,33 @@ Used DCodes :
     D10
     D11
     D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Ryu.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D44
 *************************************************************
 
 *************************************************************
@@ -112,93 +204,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Ryu.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Board Shape
-      File : Ryu.GM3
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Ryu.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D13
-    D14
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Ryu.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D13
-    D14
-    D15
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : Ryu.GTS
 
@@ -230,20 +235,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Ryu.GTP
+Generating : Bottom Overlay
+      File : Ryu.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D13
-    D14
-    D15
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
