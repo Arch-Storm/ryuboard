@@ -45,6 +45,23 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\Ryu.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=Ryu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -61,7 +78,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNKSCKQJ
 
-[Document2]
+[Document3]
 DocumentPath=RyuLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -78,7 +95,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSUMPPLR
 
-[Document3]
+[Document4]
 DocumentPath=RyuSch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -95,7 +112,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSBHGYZH
 
-[Document4]
+[Document5]
 DocumentPath=Ryu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,40 +128,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFTXKJXO
-
-[Document5]
-DocumentPath=Assembly.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=Fabrication.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RyuBoard v2.0\Design Rule Check - Ryu.html
@@ -166,9 +149,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Fabrication.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Fabrication
 
@@ -178,9 +159,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Assembly.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
