@@ -1,0 +1,11 @@
+Added Component: Designator=TH1(M2_PCB_HOLE)
+Added Component: Designator=TH2(M2_PCB_HOLE)
+Added Component: Designator=TH3(M2_PCB_HOLE)
+Added Component: Designator=TH4(M2_PCB_HOLE)
+Added Component: Designator=TH5(M2_PCB_HOLE)
+Added Member To Class: ClassName=Ryu-Plate Member=Component TH1 HOLE_PCB
+Added Member To Class: ClassName=Ryu-Plate Member=Component TH2 HOLE_PCB
+Added Member To Class: ClassName=Ryu-Plate Member=Component TH3 HOLE_PCB
+Added Member To Class: ClassName=Ryu-Plate Member=Component TH4 HOLE_PCB
+Added Member To Class: ClassName=Ryu-Plate Member=Component TH5 HOLE_PCB
+Added Room: Name=Ryu-Plate
