@@ -1,4 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=RyuBoard v2.0\RyuBoard v2.0.PrjPcb
+ProjectPath=RyuBoard v2.0\RyuBoard.PrjPcb
+[Project2]
+ProjectPath=RyuBoard-Plate v2.0\RyuBoard-Plate.PrjPcb
+[Project3]
+ProjectPath=RyuBoard-Bottom\RyuBoard-Bottom.PrjPcb
