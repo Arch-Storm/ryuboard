@@ -129,10 +129,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFTXKJXO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RyuBoard v2.0\Design Rule Check - Ryu.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
