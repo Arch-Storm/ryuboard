@@ -2,14 +2,16 @@
 FileName = Ryu-Plate.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Shape
-      File : Ryu-Plate.GM3
+Generating : Bottom Pad Master
+      File : Ryu-Plate.GPB
 
-    Adding Layer      : Board Shape
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
+    D11
 *************************************************************
 
 *************************************************************
@@ -28,6 +30,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Layer
+      File : Ryu-Plate.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : Ryu-Plate.GTS
 
@@ -43,33 +58,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Ryu-Plate.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Pad Master
       File : Ryu-Plate.GPT
 
     Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Ryu-Plate.GPB
-
-    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -92,15 +84,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Ryu-Plate.GTL
+Generating : Board Shape
+      File : Ryu-Plate.GM3
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D11
+    D12
 *************************************************************
 

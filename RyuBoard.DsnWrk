@@ -5,4 +5,4 @@ ProjectPath=RyuBoard v2.0\RyuBoard.PrjPcb
 [Project2]
 ProjectPath=RyuBoard-Plate v2.0\RyuBoard-Plate.PrjPcb
 [Project3]
-ProjectPath=RyuBoard-Bottom\RyuBoard-Bottom.PrjPcb
+ProjectPath=RyuBoard-Bottom\RyuBoard-Mount.PrjPcb

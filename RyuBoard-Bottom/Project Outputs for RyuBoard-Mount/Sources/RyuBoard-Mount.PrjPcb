@@ -45,7 +45,7 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=Ryu-Bottom.SchDoc
+DocumentPath=Ryu-Mount.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -62,7 +62,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KUYSSRSI
 
 [Document2]
-DocumentPath=Ryu-Bottom.PcbDoc
+DocumentPath=Ryu-Mount.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -113,7 +113,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Ryu-Bottom.OutJob
+DocumentPath=Ryu-Mount.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -147,7 +147,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Ryu-Bottom.OutJob
+OutputJobFileName1=Ryu-Mount.OutJob
 ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Fabrication
 

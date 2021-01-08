@@ -1,33 +1,20 @@
 *************************************************************
-FileName = Ryu-Bottom.GBR
+FileName = Ryu-Mount.GBR
 AutoAperture = True
 *************************************************************
 Generating : Board Shape
-      File : Ryu-Bottom.GM3
+      File : Ryu-Mount.GM3
 
     Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D13
+    D12
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Ryu-Bottom.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Ryu-Bottom.GPT
+Generating : Top Layer
+      File : Ryu-Mount.GTL
 
     Adding Layer      : Top Layer
 
@@ -39,8 +26,34 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Pad Master
+      File : Ryu-Mount.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Ryu-Mount.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
-      File : Ryu-Bottom.GBS
+      File : Ryu-Mount.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -54,32 +67,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Ryu-Bottom.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Ryu-Bottom.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Ryu-Bottom.GTL
+Generating : Top Pad Master
+      File : Ryu-Mount.GPT
 
     Adding Layer      : Top Layer
 
@@ -91,18 +80,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Ryu-Bottom.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
-      File : Ryu-Bottom.GTS
+      File : Ryu-Mount.GTS
 
     Adding Layer      : Top Solder
 
